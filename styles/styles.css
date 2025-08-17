@@ -1,0 +1,7 @@
+body {
+    background-color: beige;
+}
+
+#contactBtn {
+    --bs-btn-padding-y: 1.25rem; --bs-btn-padding-x: 1.5rem; --bs-btn-font-size: 1.75rem;
+}
